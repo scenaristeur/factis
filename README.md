@@ -2,4 +2,4 @@
 
 The Factis modular database system in one package !
 
-Be sure to check [http://factis.io](http://factis.io) for more information and documentation !
+Be sure to check [http://crubier.github.io/Hexastore/](http://crubier.github.io/Hexastore/) for more information and documentation !
